@@ -1,4 +1,4 @@
-# Recommendations with IBM Project
+# Climate Change - Which African Country To Visit After COVID-19 Project
 
 ### Introduction:
 In this project, we will discuss the climate changes for African countries. Which countries climate will be better for your first vacation after the COVID-19 quarantine.
