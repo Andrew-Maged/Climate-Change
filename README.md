@@ -4,7 +4,7 @@
 2. [Project Motivation](#motivation)
 3. [Files Description](#files)
 4. [Results](#results)
-5. [Instructions] (#Instructions)
+5. [Instructions](#Instructions)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
@@ -36,9 +36,9 @@ The goal of the project is to analyze climate data provided by Kaggle that conta
 ## Instructions: <a name="Instructions"></a>
 In a terminal or command window, navigate to the Notebook directory and run one of the following commands:
 
-ipython Climate Change - Which African Country To Visit After COVID-19.ipynb
+- ipython Climate Change - Which African Country To Visit After COVID-19.ipynb
 or
-jupyter Climate Change - Which African Country To Visit After COVID-19.ipynb
+- jupyter Climate Change - Which African Country To Visit After COVID-19.ipynb
 
 This will open the iPython Notebook software and project file in your browser.
 
@@ -57,6 +57,6 @@ The main findings of the code can be found at the post available [here](https://
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here] (https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) .
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) .
 
 
